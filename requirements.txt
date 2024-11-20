@@ -1,0 +1,3 @@
+spacy-curated-transformers==2.0.0
+gdown
+spacy>=4.0.0.dev3
